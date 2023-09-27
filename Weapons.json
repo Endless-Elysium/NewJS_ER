@@ -1,0 +1,49 @@
+[
+  {
+    "Name": "Heavy Bastard Sword",
+    "Infusion": "SpHeavy",
+    "EPW": {
+      "Physical Attack": 133,
+      "Str Scaling": 59
+    },
+    "CCG": {
+      "Physical_ccg": 1
+    },
+    "AEC": {
+      "Id": 10000
+    }
+  },
+  {
+    "Name": "Fire Greatsword",
+    "Infusion": "Fire",
+    "EPW": {
+      "Physical Attack": 159,
+      "Fire Attack": 159,
+      "Str Scaling": 32,
+      "Dex Scaling": 15
+    },
+    "CCG": {
+      "Fire_ccg": 4
+    },
+    "AEC": {
+      "Id": 10005
+    }
+  },
+  {
+    "Name": "Royal Greatsword",
+    "Infusion": "Sp",
+    "EPW": {
+      "Physical Attack": 112,
+      "Magic Attack": 134,
+      "Str Scaling": 37,
+      "Dex Scaling": 15,
+      "Int Scaling": 40
+    },
+    "CCG": {
+      "Magic_ccg": 4
+    },
+    "AEC": {
+      "Id": 10000
+    }
+  }
+]
